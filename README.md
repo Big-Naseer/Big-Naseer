@@ -37,7 +37,7 @@
 
 - :zap: In my free time, I enjoy solving algorithmic challenges on platforms like LeetCode and HackerRank, as well as reading tech blogs and staying updated with the latest trends in backend development.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/desmond-fon-88aa88253/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://https://www.linkedin.com/in/big-naseer/)
 
 ---
 
